@@ -1,3 +1,4 @@
 /sale.list
 /test8811
 /watch?v=y7mYLbKtq-U
+/tmp
