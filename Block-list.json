@@ -1,0 +1,6 @@
+{
+  "example.com": ["tmp", "test8811", "hack"],
+  "google.com": ["tmp", "test8811", "hack"],
+  "youtube.com": ["spamword", "clickbait", "scam"],
+  "facebook.com": ["fakeprofile", "phishing", "malware"]
+}
