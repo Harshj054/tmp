@@ -1,6 +1,6 @@
 {
-  "example.com": ["/tmp", "test8811", "hack"],
-  "google.com": ["/tmp", "test8811", "hack"],
-  "youtube.com": ["/watch?v=y7mYLbKtq-U", "spamword", "clickbait", "scam"],
-  "facebook.com": ["fakeprofile", "phishing", "malware"]
+  "example.com": ["/tmp", "/test8811", "/hack"],
+  "google.com": ["/tmp", "/test8811", "/hack"],
+  "youtube.com": ["/watch?v=y7mYLbKtq-U", "/spamword", "/clickbait", "/scam"],
+  "facebook.com": ["/fakeprofile", "/phishing", "/malware"]
 }
